@@ -20,7 +20,7 @@ Ruby 2+ is required.
 
 ## Sample
 
-[![Sample](https://raw.githubusercontent.com/igorkasyanchuk/spring_rspec_commands_addon/blob/master/docs/spring.png)](https://raw.githubusercontent.com/igorkasyanchuk/spring_rspec_commands_addon/blob/master/docs/spring.png)
+[![Sample](https://github.com/igorkasyanchuk/spring_rspec_commands_addon/raw/master/docs/spring.png)](https://github.com/igorkasyanchuk/spring_rspec_commands_addon/raw/master/docs/spring.png)
 
 ## Usage
 
