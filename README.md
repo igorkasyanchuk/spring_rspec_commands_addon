@@ -18,6 +18,18 @@ And then execute:
 
 Ruby 2+ is required.
 
+You need to have in Gemfile:
+
+```
+group :development do
+  gem 'spring-commands-rspec'
+  gem "spring"
+  gem 'spring-watcher-listen'
+end
+```
+
+Plus don't forget to `bundle exec spring binstub --all`.
+
 ## Sample
 
 [![Sample](https://github.com/igorkasyanchuk/spring_rspec_commands_addon/raw/master/docs/spring.png)](https://github.com/igorkasyanchuk/spring_rspec_commands_addon/raw/master/docs/spring.png)
