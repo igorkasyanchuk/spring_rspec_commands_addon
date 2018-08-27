@@ -1,6 +1,8 @@
-# Rails + Rspec + Spring = Love :)
+# Rails + Rspec + Spring = easy re-run for failed specs.
 
-Tired of adding "bin" to "rspec" command for failed specs? Here is a simple solution.
+Before you read this a little question - how do you re-run specs if you are using rails+spring+rspec? This is for you!
+
+Tired of adding "bin/" to "rspec" command for failed specs? Here is a simple solution.
 
 ## Installation
 
@@ -15,6 +17,10 @@ And then execute:
     $ bundle
 
 Ruby 2+ is required.
+
+## Sample
+
+[![Sample](https://raw.githubusercontent.com/igorkasyanchuk/spring_rspec_commands_addon/blob/master/docs/spring.png)](https://raw.githubusercontent.com/igorkasyanchuk/spring_rspec_commands_addon/blob/master/docs/spring.png)
 
 ## Usage
 
